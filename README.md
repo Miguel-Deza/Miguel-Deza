@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/78099176/300447552-25fc26bb-6943-4dc9-a955-7aa347a54fef.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240129%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240129T121312Z&X-Amz-Expires=300&X-Amz-Signature=b290554b89f8047c1b9bfcdc6bd9b0fd935b996e50fab9e178c85a9816703b82&X-Amz-SignedHeaders=host&actor_id=78099176&key_id=0&repo_id=495453819">
+  <img align="right" width="40%" src="https://raw.githubusercontent.com/Miguel-Deza/Miguel-Deza/main/pegaso.png">
 </div>
 
 <!--Header Name-->
